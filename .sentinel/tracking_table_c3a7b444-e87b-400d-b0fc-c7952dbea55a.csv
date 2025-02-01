@@ -1,4 +1,6 @@
 FileName, CommitSha
-Automation Rules/ChangeOwnerPersistenceIncidents.json,c953a2f4cfc3dd12cbe3376bceada594b2d55116
 Analytics Rules/MalformedUserAgents.json,a2d24f9f9756b7633b0e24df8f2118e4f85a73ce
+Analytics Rules/Test Automation.json,e7d1b495dc49fc0abb0fda405cad97f77ebd180b
+Automation Rules/ChangeOwnerPersistenceIncidents.json,c953a2f4cfc3dd12cbe3376bceada594b2d55116
+Analytics Rules/BreakGlassAccountSignin.json,e163ea48c3483dbb9b5c33c149de41b827c5c8c4
 
